@@ -1,0 +1,12 @@
+---
+source_url: http://www.lib.ru/HEIDEGGER/gelassen.txt
+ingested: 2026-06-25
+sha256: 4e8f2c1a9b3d7e6f5a4c2b1d9e8f7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c2d1e0f
+---
+
+Heidegger Martin. Gelassenheit. Günther Neske, Pfullingen, 1959.
+
+Русский перевод: А.З. Солодовникова, 1991.
+
+Полный текст доступен на lib.ru.
+Ключевые темы: Gelassenheit (отрешенность, releasement), мышление (Denken), техника, бытие.
