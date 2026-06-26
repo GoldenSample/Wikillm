@@ -13,3 +13,13 @@
 ## Comparisons
 
 ## Queries
+
+## Entities (updated)
+- [[heidegger-martin]]
+- [[sheinov-vp]]
+
+## Concepts (updated)
+- [[gelassenheit]]
+- [[thinking]]
+- [[manipulation]]
+- [[protection-from-manipulation]]
